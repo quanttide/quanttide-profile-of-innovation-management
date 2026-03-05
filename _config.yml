@@ -1,7 +1,0 @@
-# https://jupyterbook.org/en/stable/customize/config.html
-name: quanttide-profile-of-innovation
-title: 量潮创新档案
-author: 量潮科技
-description: 量潮创新档案
-# Jupyter Book Config
-only_build_toc_files: true
