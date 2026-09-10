@@ -4,7 +4,7 @@
 
 ### 新增
 
-- product/requirement-loop.md：调研量潮产品需求梳理智能体，附 Issue #7 评估（过度工程风险）
+- product/requirement-loop.md：调研量潮产品需求梳理智能体，附 Issue #7 评估（过度工程风险）与数据/输出管线查证（输入已接入、输出未回流）
 
 ## [0.0.2] - 2026-03-05
 
