@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- product/requirement-loop.md：调研量潮产品需求梳理智能体
+
 ## [0.0.2] - 2026-03-05
 
 ### 变更
